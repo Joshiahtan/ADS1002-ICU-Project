@@ -1,0 +1,17 @@
+Important features
+
+1. GSC
+	2. HEART RATE
+	3. PLATELETS
+	4. URINE
+	5. WBC - C
+	6. BUN
+	7. TEMP
+	8. GLUCOSE
+	9. PACO2
+	10. PAO2
+	11. SYS ABP
+	12. HCO3
+	13. GCT
+	14. WEIGHT (MIN MAINLY)
+15. lactate
